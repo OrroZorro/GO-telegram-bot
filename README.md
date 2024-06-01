@@ -1,10 +1,5 @@
-# Read Adviser Bot
+#ReadME
 
-Данный бот умеет сохранять ссылки, которые ему скидывают собеседники, и по запросу отправлять
-случайную ссылку из сохраненных.
+This bot can save links sent by users and, upon request, send a random link from the saved ones. It's useful for people who often save many articles but forget to read them :)
 
-Это полезно для тех людей, которые часто сохраняют много статей, но забывают их читать :)
-
-Код написан таким образом, чтобы его легко было расширять. К примеру, к нему без труда можно
-добавить реализацию для любого другого мессенджера, добавив соотствующий клиент. Остальная логика
-останется без изменений.
+The code is written in a way that makes it easily extendable. For example, you can easily add implementations for any other messenger by adding the corresponding client. The rest of the logic will remain unchanged.
